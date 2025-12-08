@@ -8,30 +8,30 @@ bangalore, india
 
 ### projects
 
-**[FM Crypto Service](https://github.com/jagnd1/fmcrypto)**  
-A cryptographic and PKI service built with FastAPI for secure key management, encryption, and certificate operations.
-- Crypto service: key generation, encryption, digital signatures, MAC operations, PIN translation, key wrapping
-- PKI service: certificate generation, renewal, CSR processing, CRL management
-- HSM integration with DUKPT implementation
-- Production-ready with Docker deployment
+**[fmcrypto service](https://github.com/jagnd1/fmcrypto)**  
+a cryptographic and pki service built with fastapi for secure key management, encryption, and certificate operations.
+- crypto service: key generation, encryption, digital signatures, mac operations, pin translation, key wrapping
+- pki service: certificate generation, renewal, csr processing, crl management
+- hsm integration with dukpt implementation
+- production-ready with docker deployment
 
-**Tech**: Python 3.13+, FastAPI, Docker, HSM, PKI, Cryptography
+**tech**: python 3.13+, fastapi, docker, hsm, pki, cryptography
 
 ---
 
-**[SRS Panchanga Calendar](https://github.com/jagnd1/panchanga)**  
-A complete solution for extracting and distributing Hindu Panchanga calendar data as a subscribable ICS feed.
-- Automated web scraping from SRS Matha
-- ICS calendar generation (RFC 5545 compliant)
-- Mobile-responsive landing page
-- GitHub Pages deployment
+**[srs panchanga calendar](https://github.com/jagnd1/panchanga)**  
+a complete solution for extracting and distributing hindu panchanga calendar data as a subscribable ics feed.
+- automated web scraping from srs matha
+- ics calendar generation (rfc 5545 compliant)
+- mobile-responsive landing page
+- github pages deployment
 
-**Tech**: Python, Playwright, iCalendar, HTML/CSS
+**tech**: python, playwright, icalendar, html/css
 
-**Live**: [jagnd1.github.io/panchanga](https://jagnd1.github.io/panchanga)
+**live**: [jagnd1.github.io/panchanga](https://jagnd1.github.io/panchanga)
 
 ### expertise
-- Payment Systems
-- Fintech Solutions
-- Blockchain Technology
-- Web Scraping & Automation
+- payment systems
+- fintech solutions
+- blockchain technology
+- web scraping & automation
