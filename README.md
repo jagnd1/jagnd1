@@ -9,8 +9,8 @@ bangalore, india
 ### expertise
 - payment systems
 - fintech solutions
-- blockchain technology
-- web scraping & automation
+
+ai, blockchain, scraping enthusiastic
 
 ### projects
 
