@@ -2,21 +2,22 @@ jagannath desai
 
 payment & fintech consultant
 bangalore, india
+<br>
 
 connect
 
 [linkedin](https://linkedin.com/in/jagnd) · [twitter](https://x.com/jagnd)
+<br>
 
 expertise
 
-payment systems
-fintech solutions
+- payment systems
+- fintech solutions
 
 ai, blockchain, scraping enthusiastic
 
-![](https://github-readme-stats.vercel.app/api?username=jagnd1&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&hide=stars,issues&rank_icon=github&include_all_commits=true)
-
 `python` `go` `fastapi` `docker` `postgresql` `cloud`
+<br>
 
 projects
 
