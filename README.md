@@ -1,42 +1,32 @@
 jagannath desai
 
-payment & fintech consultant
-bangalore, india
-<br>
+payments infrastructure consultant, bangalore. twenty years in cards
+and payments — started in terminal firmware and pos applications,
+moved through acquirer switches and issuance processors to wallets,
+gateways and softpos.
 
-connect
+i build payment systems and take them through certification: visa,
+mastercard, amex, nexo, pci (dss, ssf, mpoc). domains covered along
+the way: credit/debit, prepaid, transit, loyalty, dcc, petro.
+
+hsm and key management is home ground — rki, pki.
 
 [linkedin](https://linkedin.com/in/jagnd) · [twitter](https://x.com/jagnd)
-<br>
 
-expertise
+these days building backend services for payments, and newer ground:
+credential issuance with verifiable credentials (oid4vci), device
+attestation and root of trust.
 
-- payment systems
-- fintech solutions
+some public code:
 
-ai, blockchain, scraping enthusiastic
+[fmcrypto](https://github.com/jagnd1/fmcrypto) — crypto and pki service.
+key generation, wrapping, dukpt, pin translation, certificates. public
+subset of a larger device management platform i build.
 
-`python` `go` `fastapi` `docker` `postgresql` `cloud`
-<br>
+[sarvantaryami](https://github.com/jagnd1/sarvantaryami) — enterprise ai
+that runs fully offline against local llms. sql, rag and api agents.
 
-projects
+[nfc-link-writer](https://github.com/jagnd1/nfc-link-writer) — small
+react native app for writing urls to nfc tags.
 
-[fmcrypto service](https://github.com/jagnd1/fmcrypto)
-a cryptographic and pki service built with fastapi for secure key management, encryption, and certificate operations.
-
-- crypto service: key generation, encryption, digital signatures, mac operations, pin translation, key wrapping
-- pki service: certificate generation, renewal, csr processing, crl management
-- hsm integration with dukpt implementation
-- production-ready with docker deployment
-
-tech: python 3.13+, fastapi, docker, hsm, pki, cryptography
-
-[sarvantaryami](https://github.com/jagnd1/sarvantaryami)
-an ai swiss army knife for enterprise, designed to run fully offline/locally using ollama for private, secure, and intelligent interface to enterprise data.
-
-- sql agent: natural language to sql queries for structured business data
-- api agent: invoking enterprise services via openapi specifications
-- rag agent: document analysis and q&a from pdfs and technical docs
-- clean mvc architecture with hexagonal/clean architecture principles
-
-tech: python, fastapi, ollama, docker, rag, langchain, embeddings
+most of my work is in private repos, client and product code.
