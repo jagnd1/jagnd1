@@ -14,8 +14,7 @@ hsm and key management is home ground - rki, pki.
 [linkedin](https://linkedin.com/in/jagnd) · [twitter](https://x.com/jagnd)
 
 these days building backend services for payments, and newer ground:
-credential issuance with verifiable credentials (oid4vci), device
-attestation and root of trust.
+device attestation and root of trust.
 
 some public code:
 
