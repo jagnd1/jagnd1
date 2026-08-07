@@ -5,9 +5,10 @@ and payments - started in terminal firmware and pos applications,
 moved through acquirer switches and issuance processors to wallets,
 gateways and softpos.
 
-i build payment systems and take them through certification: visa,
-mastercard, amex, nexo, pci (dss, ssf, mpoc). domains covered along
-the way: credit/debit, prepaid, transit, loyalty, dcc, petro.
+i build payment systems, take them through certification - visa,
+mastercard, amex, nexo, pci (dss, ssf, mpoc) - and stay past go-live:
+support, maintenance, upgrades. domains covered along the way:
+credit/debit, prepaid, transit, loyalty, dcc, petro.
 
 hsm and key management is home ground - rki, pki.
 
