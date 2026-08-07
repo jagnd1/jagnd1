@@ -7,9 +7,9 @@ gateways and softpos.
 
 i build payment systems, take them through certification - various
 card schemes, nexo, pci (dss, ssf, mpoc) - and stay past go-live:
-support, maintenance, upgrades. customers across apac, emea and the
-middle east. domains covered along the way: credit/debit, prepaid,
-transit, loyalty, dcc, petro.
+support, maintenance, upgrades. customers across multiple regions.
+domains covered along the way: credit/debit, prepaid, transit,
+loyalty, dcc, petro.
 
 hsm and key management is home ground - rki, pki.
 
