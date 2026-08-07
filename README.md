@@ -5,8 +5,8 @@ and payments - started in terminal firmware and pos applications,
 moved through acquirer switches and issuance processors to wallets,
 gateways and softpos.
 
-i build payment systems, take them through certification - visa,
-mastercard, amex, nexo, pci (dss, ssf, mpoc) - and stay past go-live:
+i build payment systems, take them through certification - various
+card schemes, nexo, pci (dss, ssf, mpoc) - and stay past go-live:
 support, maintenance, upgrades. customers across apac, emea and the
 middle east. domains covered along the way: credit/debit, prepaid,
 transit, loyalty, dcc, petro.
